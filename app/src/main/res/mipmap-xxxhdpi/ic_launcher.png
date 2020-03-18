@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="test" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61848539-0d0f-4e03-a671-ada3a9f6824d" name="Default Changelist" comment="fix versions" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewmodels/BoardsViewModel.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BoardsViewModel</find>
+      <find>ThemeBoardsViewModel</find>
+      <find>Log.d</find>
+      <find>com.akrivonos.a2chparser.pojomodel.threadmodel.Thread</find>
+      <find>getBoardThemes</find>
+      <find>BOARD_INFO</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BoardsViewModel</replace>
+      <replace>Thread</replace>
+      <replace>getBoardThemesLiveData</replace>
+      <replace>BOARD_ID</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/pojomodel/threadmodel/Top.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/viewholders/MediaViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapteritem_media.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/ThreadAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/viewholders/ThreadViewHolder.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapteritem_savetype_types.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/interfaces/OpenDetailedSaveScreen.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/viewholders/TypeSaveViewHolder.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite_page.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/fragments/FavoritePage.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/interfaces/OpenDetailedSavePage.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite_page_concrete.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/fragments/FavoritePageThemesList.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/database/RoomDatabase.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/models/Board.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/models/SaveTypeModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/database/RoomAppDatabase.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/SaveListTypesAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/SaveConcreteAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/viewholders/BoardConcreteViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/interfaces/OpenBoardListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapteritem_concrete_board.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/database/BoardsDao.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/recviewadapters/BoardConcreteAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewholders/BoardConcreteViewHolder.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewholders/TypeSaveViewHolder.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewholders/MediaViewHolder.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/fragments/FavoritePageConcreteFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewmodels/DetailedBoardViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapteritem_media_photo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapteritem_threads_for_board.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/pojomodel/boardmodel/BoardTheme.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/recviewadapters/BoardThemeAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/adapters/recviewadapters/ThreadAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/pojomodel/threadmodel/Thread.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewmodels/BoardsViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/viewmodels/ConcreteBoardViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/retrofit/RetrofitSearchDvach.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/navigation/main_graph.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_concrete_board.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/fragments/BoardsFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/akrivonos/a2chparser/models/database/Board.kt" />
+     

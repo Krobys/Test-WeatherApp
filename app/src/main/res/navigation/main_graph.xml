@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main_graph"
+    app:startDestination="@id/authCity">
+
+    <fragment
+        android:id="@+id/authCity"
+        android:name="com.example.weatherapp.ui.authcityweather.AuthCityWeatherFragment"
+        android:label="AuthCityWeatherFragment" >
+    </fragment>
+    <fragment
+        android:id="@+id/detailedCity"
+        android:name="com.example.weatherapp.ui.detailscityweather.DetailedCityWeatherFragment"
+        android:label="DetailedCityWeatherFragment" />
+</navigation>
